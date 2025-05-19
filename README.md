@@ -10,6 +10,4 @@ This project is implemented in Python and uses libraries such as NumPy, Pandas, 
 # How to Run
 1) Clone the repository
 
-2) Install the required libraries (pip install -r requirements.txt)
-
-3) Run the Jupyter Notebook Portfolio-Optimisation.ipynb step by step
+2) Run the Jupyter Notebook Portfolio-Optimisation.ipynb step by step
